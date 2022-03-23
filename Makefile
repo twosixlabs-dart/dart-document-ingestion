@@ -1,5 +1,5 @@
 IMAGE_PREFIX = twosixlabsdart
-IMAGE_NAME = dart-document-processing
+IMAGE_NAME = dart-document-ingestion
 IMG := $(IMAGE_PREFIX)/$(IMAGE_NAME)
 
 ifndef CI_COMMIT_REF_NAME
