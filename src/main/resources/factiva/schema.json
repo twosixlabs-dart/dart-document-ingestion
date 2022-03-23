@@ -1,0 +1,134 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "description": "Factiva schema",
+  "type": "object",
+  "required": [
+    "an"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "action": {
+      "type": "string"
+    },
+    "an": {
+      "type": "string"
+    },
+    "art": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    },
+    "byline": {
+      "type": "string"
+    },
+    "company_codes": {
+      "type": "string"
+    },
+    "company_codes_about": {
+      "type": "string"
+    },
+    "company_codes_about_ticker_exchange": {
+      "type": "string"
+    },
+    "company_codes_association": {
+      "type": "string"
+    },
+    "company_codes_association_ticker_exchange": {
+      "type": "string"
+    },
+    "company_codes_lineage": {
+      "type": "string"
+    },
+    "company_codes_lineage_ticker_exchange": {
+      "type": "string"
+    },
+    "company_codes_occur": {
+      "type": "string"
+    },
+    "company_codes_occur_ticker_exchange": {
+      "type": "string"
+    },
+    "company_codes_relevance": {
+      "type": "string"
+    },
+    "company_codes_relevance_ticker_exchange": {
+      "type": "string"
+    },
+    "company_codes_ticker_exchange": {
+      "type": "string"
+    },
+    "copyright": {
+      "type": "string"
+    },
+    "credit": {
+      "type": "string"
+    },
+    "currency_codes": {
+      "type": "string"
+    },
+    "dateline": {
+      "type": "string"
+    },
+    "document_type": {
+      "type": "string"
+    },
+    "industry_codes": {
+      "type": "string"
+    },
+    "ingestion_datetime": {
+      "type": "string"
+    },
+    "language_code": {
+      "type": "string"
+    },
+    "market_index_codes": {
+      "type": "string"
+    },
+    "modification_date": {
+      "type": "string"
+    },
+    "modification_datetime": {
+      "type": "string"
+    },
+    "person_codes": {
+      "type": "string"
+    },
+    "publication_date": {
+      "type": "string"
+    },
+    "publication_datetime": {
+      "type": "string"
+    },
+    "publisher_name": {
+      "type": "string"
+    },
+    "region_codes": {
+      "type": "string"
+    },
+    "region_of_origin": {
+      "type": "string"
+    },
+    "section": {
+      "type": "string"
+    },
+    "snippet": {
+      "type": "string"
+    },
+    "source_code": {
+      "type": "string"
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "subject_codes": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "word_count": {
+      "type": "string"
+    }
+  }
+}

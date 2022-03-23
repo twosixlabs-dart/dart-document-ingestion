@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "description": "Factiva schema",
+  "type": "object",
+  "required": [
+    "norm"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "norm": {
+      "type": "object",
+      "properties": {
+        "author": {
+          "type": "string"
+        },
+        "body": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "body"
+      ]
+    }
+  }
+}
