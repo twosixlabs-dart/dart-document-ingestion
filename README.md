@@ -29,7 +29,7 @@ make docker-build
 ## Runtime Configuration
 ```yaml
 document-processing-pipeline:
-    image: docker.causeex.com/dart/dart-3:latest
+    image: twosixlabsdart/dart-document-ingestion:latest
     environment:
       PROGRAM_ARGS: "--primary-ds arangodb --sql-ds postgresql"
       POLL_SIZE: 200

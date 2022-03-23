@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
-  "description": "Factiva schema",
+  "description": "PULSE schema",
   "type": "object",
   "required": [
     "norm"

@@ -177,7 +177,7 @@ class FactivaDocumentJsonTestSuite extends StandardTestBase3x {
               |  "action": "add",
               |  "region_codes": null,
               |  "company_codes": ",nusrah,nusrah,opexpc,opexpc,rsatmn,rsatmn,unscou,unscou,utdnat,utdnat,opexpc,",
-              |  "source_name": "Russian Government News",
+              |  "source_name": "source",
               |  "document_type": "article",
               |  "publisher_name": "Lorem Ipsum",
               |  "modification_datetime": "1507207527000",
