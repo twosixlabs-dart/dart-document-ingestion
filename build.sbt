@@ -7,7 +7,6 @@ name := "dart-document-ingestion"
 scalaVersion in ThisBuild := "2.12.7"
 
 resolvers in ThisBuild ++= Seq( "Maven Central" at "https://repo1.maven.org/maven2/",
-                                "Dedup Github Packages" at "https://maven.pkg.github.com/reynoldsm88/dedup",
                                 "Local Ivy Repository" at s"file://${System.getProperty( "user.home" )}/.ivy2/local/default" )
 
 lazy val root = ( project in file( "." ) )

@@ -35,7 +35,7 @@ object Dependencies {
 
     val mockitoVersion = "1.16.0"
 
-    val dedupVersion = "1.0.2-SNAPSHOT"
+    val dedupVersion = "1.0.3"
 
     val kafka = Seq( "org.apache.kafka" %% "kafka" % kafkaVersion,
                      "org.apache.kafka" % "kafka-clients" % kafkaVersion )
@@ -61,7 +61,7 @@ object Dependencies {
 
     val lingua = Seq( "com.github.pemistahl" % "lingua" % linguaVersion )
 
-    val dedup = Seq( "com.github.reynoldsm88" %% "dedup" % dedupVersion )
+    val dedup = Seq( "com.twosixlabs.dart" %% "dedup" % dedupVersion )
 
     val elastic4s = Seq( "com.sksamuel.elastic4s" %% "elastic4s-core" % elastic4sVersion,
                          "com.sksamuel.elastic4s" %% "elastic4s-client-esjava" % elastic4sVersion,
