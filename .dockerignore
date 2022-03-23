@@ -1,0 +1,21 @@
+# src
+# project
+.idea
+**/*.yml
+# **/*.sbt
+.git
+**/*.class
+**/*.so
+**/*.bin
+**/*.xml
+**/*.dll
+**/*.jnilib
+**/*.proto
+**/*.xsd
+**/*.zip
+# **/*.json
+**/*.
+!**/*.jar
+**/streams/*
+**/classes/*
+**/resolution-cache/*

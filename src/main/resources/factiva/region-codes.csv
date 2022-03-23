@@ -1,0 +1,831 @@
+PALEST,Palestine
+PALIKIR,Palikir
+PANA,Panama
+PNMCTY,Panama City
+PAPNG,Papua New Guinea
+PARA,Paraguay
+PARMAB,Paramaribo
+PARIS,Paris
+PAYSLO,Pays de la Loire
+USPA,Pennsylvania
+GULFSTZ,Persian Gulf Region
+PERTH,Perth
+PERU,Peru
+PHILI,Philadelphia
+PHLNS,Philippines
+PHNOM,Phnom Penh
+PHOENX,Phoenix
+PIEDM,Piedmont
+PITCIS,Pitcairn
+PODGOR,Podgorica
+POL,Poland
+PLOUIS,Port Louis
+PMORES,Port Moresby
+PSPAIN,Port of Spain
+PVILA,Port Vila
+PAUPR,Port-au-Prince
+PALEGR,Porto Alegre
+PNOVO,Porto-Novo
+PORL,Portugal
+PRAGUE,Prague
+PRAIA,Praia
+PRETOR,Pretoria
+PRIMOR,Primorsky Krai
+CAPE,Prince Edward Island
+PRISTI,Pristina
+PROVEN,Provence-Alpes-Côte d'Azur
+PURI,Puerto Rico
+PUNE,Pune
+PUNJAB,Punjab
+PUNTL,Puntland
+PYONG,Pyongyang
+QATAR,Qatar
+QINGD,Qingdao
+QINGH,Qinghai
+CAQC,Quebec
+QUEENSL,Queensland
+QUITO,Quito
+QUJIN,Qujing
+RABAT,Rabat
+RAJATH,Rajasthan
+RAWLP,Rawalpindi
+TTSTAN,Republic of Tatarstan
+REUNI,Reunion
+REYK,Reykjavik
+RHINEP,Rhineland-Palatinate
+USRI,Rhode Island
+RIGA,Riga
+RIO,Rio de Janeiro
+RIYADH,Riyadh
+ROM,Romania
+ROME,Rome
+ROSEAU,Roseau
+ROSTOV,Rostov Oblast
+RUSS,Russia
+RWANDA,Rwanda
+SAARL,Saarland
+SABA,Saba
+SBRTHY,Saint Barthélemy
+SLUC,Saint Lucia
+SAKHL,Sakhalin Oblast
+SALT,Salt Lake City
+WSOMOA,Samoa
+SANT,San Antonio
+SDIE,San Diego
+SFRA,San Francisco
+SJOSE,San Jose
+SANJUA,San Juan
+SMARNO,San Marino
+SANSAL,San Salvador
+SANAA,Sana'a
+SANTI,Santiago (Chile)
+SDOMIN,Santo Domingo
+SOAP,Sao Paulo
+SAOTO,São Tomé
+PST,Sao Tome and Principe
+SARAJ,Sarajevo
+SARDEG,Sardinia
+CASK,Saskatchewan
+SAARAB,Saudi Arabia
+SAXANH,Saxony-Anhalt
+SCANDZ,Scandinavia
+SCHLES,Schleswig-Holstein
+SCOT,Scotland
+SEATTL,Seattle
+SENEG,Senegal
+SEOUL,Seoul
+YUG,Serbia
+SEYCH,Seychelles
+SHAAN,Shaanxi
+SHAND,Shandong
+SHAHAI,Shanghai
+SHANXI,Shanxi
+SHENZH,Shenzhen
+YAMAU,Shikoku
+RUSIB,Siberian Federal District
+SICHU,Sichuan
+SICILY,Sicily
+SILEN,Sierra Leone
+SINGP,Singapore
+SINTEU,Sint Eustatius
+SKOPJE,Skopje
+SLVAK,Slovakia
+SLVNIA,Slovenia
+SOFIA,Sofia
+SOLIL,Solomon Islands
+SOMAL,Somalia
+SOMAI,Somaliland
+SAFR,South Africa
+SAMZ,South America
+SAUSTR,South Australia
+USSC,South Carolina
+USSD,South Dakota
+SGSSI,South Georgia and South Sandwich Islands
+SKOREA,South Korea
+SOSSRT,South Ossetia
+SOUSUD,South Sudan
+STARAW,South Tarawa
+SEASIAZ,Southeast Asia
+SOUAFRZ,Southern Africa
+SASIAZ,Southern Asia
+RUSFD,Southern Federal District
+USS,Southern U.S.
+SPAIN,Spain
+SRILAN,Sri Lanka
+SPCITY,St Petersburg City
+STGEOR,St. George's
+STHEL,St. Helena
+STJOHN,St. John's
+SKIT,St. Kitts and Nevis
+SINTMA,St. Maarten
+STMART,St. Martin
+STPM,St. Pierre and Miquelon
+SVIN,St. Vincent and the Grenadines
+STOCK,Stockholm
+SUCRE,Sucre
+SUDAN,Sudan
+SURM,Suriname
+SUVA,Suva
+SVALB,Svalbard and Jan Mayen Islands
+SWED,Sweden
+SWITZ,Switzerland
+SYDNEY,Sydney
+SYRIA,Syria
+TAIPEI,Taipei
+TAIWAN,Taiwan
+TADZK,Tajikistan
+TALLIN,Tallinn
+TAMIL,Tamil Nadu
+TANZA,Tanzania
+TASH,Tashkent
+TASMAN,Tasmania
+TBILIS,Tbilisi
+TEGU,Tegucigalpa
+TEHRAN,Tehran
+TELA,Tel Aviv
+TELAN,Telangana
+USTN,Tennessee
+USTX,Texas
+THAIL,Thailand
+THIMPU,Thimphu
+TIANJI,Tianjin
+TIBET,Tibet
+TIMOR,Timor-Leste
+TIRAN,Tirana
+TOGO,Togo
+IWAT,Tohoku
+TOKLAU,Tokelau
+TOKYO,Tokyo
+TONGA,Tonga
+TORON,Toronto
+TRENAL,Trentino-Alto Adige
+TRTO,Trinidad and Tobago
+TRIPOL,Tripoli
+TUNCTY,Tunis
+TUNIS,Tunisia
+TURIN,Turin
+TURK,Turkey
+TURNC,Turkish Republic of Northern Cyprus
+TURKM,Turkmenistan
+TCAI,Turks and Caicos Islands
+TOSCAN,Tuscany
+TVLU,Tuvalu
+VI,U.S. Virgin Islands
+UGANDA,Uganda
+UKRN,Ukraine
+ULANB,Ulan Bator
+UAE,United Arab Emirates
+UK,United Kingdom
+USA,United States
+RUUFD,Urals Federal District
+URU,Uruguay
+URUM,Urumqi
+USUT,Utah
+UTTAR,Uttar Pradesh
+UZBK,Uzbekistan
+VADUZ,Vaduz
+VALENC,Valencia (Spain)
+VALLE,Valletta
+VANCV,Vancouver
+VANU,Vanuatu
+VCAN,Vatican City
+VENET,Veneto
+VEN,Venezuela
+USVT,Vermont
+VICTOR,Victoria (Australia)
+VICTSY,Victoria (Seychelles)
+VIEN,Vienna
+VIENT,Vientiane
+VIETN,Vietnam
+VILNIU,Vilnius
+USVA,Virginia
+RUVOL,Volga Federal District
+WALES,Wales
+WALLIS,Wallis and Futuna Islands
+WASW,Warsaw
+USDC,Washington DC
+USWA,Washington State
+WELL,Wellington
+WAFRZ,West Africa
+WBANK,West Bank
+WBENG,West Bengal
+USWV,West Virginia
+WASIAZ,Western Asia
+WAUSTR,Western Australia
+WEURZ,Western Europe
+SPSAH,Western Sahara
+USW,Western U.S.
+WINDHO,Windhoek
+USWI,Wisconsin
+WUHAN,Wuhan
+USWY,Wyoming
+XIAN,Xi'an
+XINJI,Xinjiang
+YANG,Yangon
+YAOUND,Yaounde
+YAREN,Yaren
+YEKAT,Yekaterinburg
+YEMAR,Yemen
+YEREVN,Yerevan
+CAYT,Yukon
+YUNNA,Yunnan
+ZAGR,Zagreb
+ZAMBIA,Zambia
+ZHEJI,Zhejiang
+ZHENZH,Zhengzhou
+ZIMBAB,Zimbabwe
+ZURIC,Zürich
+GUANX,Guangxi
+GUAGZH,Guangzhou
+GUAT,Guatemala
+GUTMC,Guatemala City
+GUERN,Guernsey
+GUREP,Guinea
+GUBI,Guinea-Bissau
+GUIZH,Guizhou
+GUJAR,Gujarat
+GUSTAV,Gustavia
+GUY,Guyana
+HAINAN,Hainan
+HAIT,Haiti
+HAMIL,Hamilton
+HANGZH,Hangzhou
+HANOI,Hanoi
+HARAR,Harare
+HARYA,Haryana
+NORDPA,Hauts-de-France
+HAVANA,Havana
+USHI,Hawaii
+HEARD,Heard and McDonald Islands
+HEBEI,Hebei
+HEILON,Heilongjiang
+HELSNK,Helsinki
+HENAN,Henan
+HESSE,Hesse
+HIMACH,Himachal Pradesh
+HOCHI,Ho Chi Minh City
+HOKK,Hokkaido
+HON,Honduras
+HKONG,Hong Kong
+HONIAR,Honiara
+HOUST,Houston
+HUBEI,Hubei
+HUNAN,Hunan
+HUNG,Hungary
+HYDERA,Hyderabad (India)
+ICEL,Iceland
+USID,Idaho
+ILEFRA,Ile-de-France
+USIL,Illinois
+INCHEO,Incheon
+INDIA,India
+INDSUBZ,Indian Subcontinent
+USIN,Indiana
+INDNAP,Indianapolis
+INDOCHZ,Indo-China
+INDON,Indonesia
+INNMON,Inner Mongolia
+USIA,Iowa
+IRAN,Iran
+IRAQ,Iraq
+IRE,Ireland
+IRKUT,Irkutsk
+ISLAMA,Islamabad
+BONAIR,Island Territory of Bonaire
+ISLEOM,Isle of Man
+ISRAEL,Israel
+ISTAN,Istanbul
+ITALY,Italy
+JAIPUR,Jaipur
+JAKAR,Jakarta
+JAMA,Jamaica
+JAMMU,Jammu and Kashmir
+JAP,Japan
+JEDDAH,Jeddah
+JERSEY,Jersey
+JERUS,Jerusalem
+JHARK,Jharkhand
+JIANGS,Jiangsu
+JIANGX,Jiangxi
+JILIN,Jilin
+JOHAN,Johannesburg
+JORDAN,Jordan
+JUBA,Juba
+KABUL,Kabul
+KAMPLA,Kampala
+HYOGO,Kansai
+USKS,Kansas
+KANAG,Kanto
+KARCH,Karachi
+KARNA,Karnataka
+KASH,Kashmir
+KATHMA,Kathmandu
+KAZK,Kazakhstan
+USKY,Kentucky
+KENYA,Kenya
+KERALA,Kerala
+KHARTU,Khartoum
+KHNORT,Khartoum North
+KIEV,Kiev
+KIGALI,Kigali
+KINGST,Kingston
+KINGSW,Kingstown
+KINSH,Kinshasa
+KIRB,Kiribati
+KIRKU,Kirkuk
+KOLK,Kolkata
+KOSOVO,Kosovo
+KRASN,Krasnodar
+KRASND,Krasnodar Krai
+KUALA,Kuala Lumpur
+KUNMNG,Kunming
+KURD,Kurdistan
+KUWAIT,Kuwait
+KUCTY,Kuwait City
+KIRGH,Kyrgyzstan
+FUKUO,Kyushu and Okinawa
+LAPAZ,La Paz
+LARIO,La Rioja
+LAGOS,Lagos
+LAHO,Lahore
+LANZHU,Lanzhou
+LAOS,Laos
+LVEGAS,Las Vegas
+LAMZ,Latin America
+LATV,Latvia
+LAZIO,Lazio
+LEBAN,Lebanon
+LESOT,Lesotho
+LIAON,Liaoning
+LIBER,Liberia
+LIBREV,Libreville
+LIBYA,Libya
+LIECHT,Liechtenstein
+LIGUR,Liguria
+LILLE,Lille
+LILONG,Lilongwe
+LIMA,Lima
+LISBON,Lisbon
+LITH,Lithuania
+LIVERP,Liverpool
+LJUB,Ljubliana
+LOMBAR,Lombardy
+LOME,Lome
+LONDON,London (UK)
+LAX,Los Angeles
+USLA,Louisiana
+LSAXNY,Lower Saxony
+LUANDA,Luanda
+LUSAK,Lusaka
+LUX,Luxembourg
+LUXCI,Luxembourg City
+LYON,Lyon
+MACAO,Macau
+MALAG,Madagascar
+MADHYA,Madhya Pradesh
+MACITY,Madrid City
+MAHARA,Maharashtra
+USME,Maine
+MAJURO,Majuro
+MALAB,Malabo
+MALAW,Malawi
+MALAY,Malaysia
+MALDR,Maldives
+MALE,Malé
+MALI,Mali
+MALTA,Malta
+MNAGU,Managua
+MANAMA,Manama
+MANCH,Manchester
+MANIL,Manila
+CAMB,Manitoba
+MAPUTO,Maputo
+MARSE,Marseille
+MAH,Marshall Islands
+MARQ,Martinique
+USMD,Maryland
+MASERU,Maseru
+USMA,Massachusetts
+MAURTN,Mauritania
+MAURTS,Mauritius
+MAYOT,Mayotte
+MBABN,Mbabane
+MCKLWP,Mecklenburg-Western Pomerania
+MEDLLI,Medellín
+MEDZ,Mediterranean
+MELB,Melbourne
+MEX,Mexico
+MXCITY,Mexico City
+MIAMI,Miami
+USMI,Michigan
+FESMIC,Micronesia
+MEASTZ,Middle East
+USC,Midwest U.S.
+MILAN,Milan
+USMN,Minnesota
+MINSK,Minsk
+USMS,Mississippi
+USMO,Missouri
+MOGAD,Mogadishu
+MOLDV,Moldova
+MONAC,Monaco
+MONGLA,Mongolia
+MONRVA,Monrovia
+USMT,Montana
+MNTNG,Montenegro
+MONTER,Monterrey
+MONTVD,Montevideo
+MONTRE,Montréal
+MONT,Montserrat
+MOROC,Morocco
+MORONI,Moroni
+MSCITY,Moscow City
+MOSCOW,Moscow Oblast
+MOSUL,Mosul
+MOZAM,Mozambique
+MUMBAI,Mumbai
+MUNICH,Munich
+MURCIA,Murcia
+MUSCAT,Muscat
+BURMA,Myanmar
+KARAB,Nagorno-Karabakh
+NAIROI,Nairobi
+NAMIB,Namibia
+NAPLE,Naples
+NASSAU,Nassau
+NAURU,Nauru
+NAVAR,Navarre
+NAYP,Naypyidaw
+NDJA,N'Djamena
+USNE,Nebraska
+NEPAL,Nepal
+NETH,Netherlands
+USNV,Nevada
+CANB,New Brunswick
+NEWCAL,New Caledonia
+NDELH,New Delhi
+USNEW,New England
+USNH,New Hampshire
+USNJ,New Jersey
+USNM,New Mexico
+NORLE,New Orleans
+NSWALS,New South Wales
+NYC,New York City
+USNY,New York State
+NZ,New Zealand
+CANF,Newfoundland and Labrador
+NGERU,Ngerulmud
+NIAMEY,Niamey
+NICG,Nicaragua
+NICOS,Nicosia
+NIGER,Niger
+NIGEA,Nigeria
+NINGX,Ningxia
+NIUE,Niue
+NORDZ,Nordic Countries
+NORFIS,Norfolk Island
+UNORM,Normandy
+NAFRZ,North Africa
+NAMZ,North America
+USNC,North Carolina
+RUNCF,North Caucasian Federal District
+USND,North Dakota
+NKOREA,North Korea
+MCDNIA,North Macedonia
+NRHINE,North Rhine-Westphalia
+USE,Northeast U.S.
+NIREL,Northern Ireland
+NOMARI,Northern Mariana Islands
+NTERRY,Northern Territory
+CANT,Northwest Territories
+RUNFD,Northwestern Federal District
+NORW,Norway
+NOUAK,Nouakchott
+AQUIT,Nouvelle-Aquitaine
+CANS,Nova Scotia
+NOSBKC,Novosibirsk City
+NUKUA,Nukuʻalofa
+CANU,Nunavut
+ASTANA,Nursultan
+LANGUE,Occitanie
+ORISS,Odisha
+USOH,Ohio
+USOK,Oklahoma
+OMAN,Oman
+CAON,Ontario
+USOR,Oregon
+ORLA,Orlando
+OSAKA,Osaka
+OSLO,Oslo
+OTTAW,Ottawa
+OUAGA,Ouagadougou
+PACISZ,Pacific Islands
+PAKIS,Pakistan
+PALAU,Palau
+ABIDJA,Abidjan
+ABKHAZ,Abkhazia
+ABUDH,Abu Dhabi
+ABUJA,Abuja
+ACCRA,Accra
+ADDIS,Addis Ababa
+ADELAI,Adelaide
+AFGH,Afghanistan
+AFRICAZ,Africa
+AHEMDA,Ahmedabad
+USAL,Alabama
+USAK,Alaska
+ALB,Albania
+CAAB,Alberta
+ALEPPO,Aleppo
+ALXDR,Alexandria (Egypt)
+ALG,Algeria
+ALGIER,Algiers
+ALMATY,Almaty
+ALOFI,Alofi
+AMSAM,American Samoa
+AMMAN,Amman
+AMSTR,Amsterdam
+ANDAL,Andalusia
+ANDHRA,Andhra Pradesh
+ANDO,Andorra
+ADRVL,Andorra la Vella
+ANGOL,Angola
+ANGUIL,Anguilla
+ANHUI,Anhui
+ANKRA,Ankara
+ANTANA,Antananarivo
+AARCT,Antarctica
+ANTA,Antigua and Barbuda
+ANTWE,Antwerp
+AOSTA,Aosta Valley
+APIA,Apia
+ARAGN,Aragon
+ARG,Argentina
+USAZ,Arizona
+USAR,Arkansas
+ARMEN,Armenia
+ARUBA,Aruba
+ASHGAB,Ashgabat
+ASIAZ,Asia
+APACZ,Asia Pacific
+ASMARA,Asmara
+ASSAM,Assam
+ASTU,Asturias
+ASUNC,Asunción
+ATHENS,Athens
+ATLNT,Atlanta
+AUCKL,Auckland
+AUSTIN,Austin
+AUSTR,Australia
+AUSNZ,Australia/Oceania
+AUSCAP,Australian Capital Territory
+AUST,Austria
+AUVER,Auvergne-Rhône-Alpes
+AVARUA,Avarua
+AZERB,Azerbaijan
+BADWRT,Baden-Württemberg
+BAGHD,Baghdad
+BAH,Bahamas
+BAHAW,Bahawalpur
+BAHRN,Bahrain
+BAKU,Baku
+BALEA,Balearic Islands
+BALKZ,Balkan States
+BALTST,Baltic States
+BAMAKP,Bamako
+BANDAR,Bandar Seri Begawan
+BAKOK,Bangkok
+BANDH,Bangladesh
+BANGUI,Bangui
+BANJUL,Banjul
+BAOTUU,Baotou
+BARB,Barbados
+BARCA,Barcelona
+BASQU,Basque Country
+BASRA,Basra
+BASSET,Basseterre
+BEIJIN,Beijing
+BEIRUT,Beirut
+BYELRS,Belarus
+BELFS,Belfast
+BELG,Belgium
+BELGO,Belgorod Oblast
+BELGR,Belgrade
+BELZ,Belize
+BELMO,Belmopan
+BELHOR,Belo Horizonte
+BENLUXZ,Benelux Countries
+BANGA,Bengaluru
+BENGH,Benghazi
+BENIN,Benin
+BERLIN,Berlin
+BERM,Bermuda
+BERN,Bern
+BHUTAN,Bhutan
+BIHAR,Bihar
+BIRMI,Birmingham (UK)
+BISHKE,Bishkek
+BISSAU,Bissau
+BOGOTA,Bogota
+BOL,Bolivia
+BSHZG,Bosnia and Herzegovina
+BOSTON,Boston
+BOTS,Botswana
+BURGY,Bourgogne-Franche-Comté
+BOUV,Bouvet Island
+BRANDB,Brandenburg
+BRASL,Brasilia
+BRTSL,Bratislava
+BRAZ,Brazil
+BRAZZ,Brazzaville
+BRIC,BRICS Countries
+BRIDGE,Bridgetown
+BRISBN,Brisbane
+CABC,British Columbia
+BIOT,British Indian Ocean Territory
+BVI,British Virgin Islands
+BRITTY,Brittany
+BRUNEI,Brunei
+BRUS,Brussels
+BUCHA,Bucharest
+BUDAP,Budapest
+BUEAIR,Buenos Aires
+BUJUM,Bujumbura
+BUL,Bulgaria
+UPVOLA,Burkina Faso
+BURUN,Burundi
+BUSAN,Busan
+CAIRO,Cairo
+CALG,Calgary
+USCA,California
+KAMPA,Cambodia
+CAMER,Cameroon
+CAMPAN,Campania
+CAMPNS,Campinas
+CANA,Canada
+CANRY,Canary Islands
+CANBRR,Canberra
+CANTA,Cantabria
+CAPTW,Cape Town
+CVI,Cape Verde
+CARAS,Caracas
+CARDI,Cardiff
+CARIBZ,Caribbean Islands
+CLEON,Castile and León
+CASTIL,Castile-La Mancha
+CASTRI,Castries
+CATAL,Catalonia
+CAYI,Cayman Islands
+CEAFRZ,Central Africa
+CAFR,Central African Republic
+CAMZ,Central America
+CASIAZ,Central Asia
+RUCFD,Central Federal District
+EEURZ,Central/Eastern Europe
+CENTRE,Centre-Val de Loire
+CHAD,Chad
+CHNISL,Channel Islands
+CHECHN,Chechen Republic
+CHELYA,Chelyabinsk Oblast
+CHGDU,Chengdu
+CHENNA,Chennai
+CHHAT,Chhattisgarh
+CHICO,Chicago
+CHIL,Chile
+CHINA,China
+CHISI,Chisinau
+CHONGP,Chongqing
+CHR,Christmas Island
+AICHI,Chubu
+OKAYA,Chugoku
+CINNCI,Cincinnati
+USSRZ,CIS Countries
+COCOS,Cocos (Keeling) Islands
+COL,Colombia
+COLOM,Colombo
+USCO,Colorado
+COLUM,Columbus
+MADRD,Community of Madrid
+COMOR,Comoros
+CONAKR,Conakry
+CONGO,Congo Republic
+USCT,Connecticut
+COOKIS,Cook Islands
+COPEN,Copenhagen
+CORSI,Corsica
+COSR,Costa Rica
+ICST,Cote d'Ivoire
+CRIMEA,Crimea
+CRTIA,Croatia
+CUBA,Cuba
+NANT,Curaçao
+CYPR,Cyprus
+CZREP,Czech Republic
+DACH,DACH Countries
+DAEJEO,Daejeon
+DAKAR,Dakar
+DALIAN,Dalian
+DALLAS,Dallas
+DAMAS,Damascus
+DARESS,Dar es Salaam
+USDE,Delaware
+DELHI,Delhi
+ZAIRE,Democratic Republic of the Congo
+DEN,Denmark
+DENVER,Denver
+DETROI,Detroit
+DVPCOZ,Developing Economies
+DHAKA,Dhaka
+DILI,Dili
+TAI,Djibouti
+DJCITY,Djibouti City
+DODOMA,Dodoma
+DOHA,Doha
+DOMA,Dominica
+DOMR,Dominican Republic
+DONSK,Donbas
+DUBAI,Dubai
+DUBLIN,Dublin
+DURBAN,Durban
+DUSHAN,Dushanbe
+EAFRZ,East Africa
+EASIAZ,Eastern Asia
+ECU,Ecuador
+EDINB,Edinburgh
+EGYPT,Egypt
+ELSAL,El Salvador
+DEVGCOZ,Emerging Market Countries
+EMILIA,Emilia-Romagna
+ELAND,England
+EQGNA,Equatorial Guinea
+ERTRA,Eritrea
+ESTNIA,Estonia
+SWAZD,Eswatini
+ETHPA,Ethiopia
+EURZ,Europe
+EECZ,European Union Countries
+EXTRM,Extremadura
+FALK,Falkland Islands
+RUFFD,Far Eastern Federal District
+FAEROE,Faroe Islands
+FIJI,Fiji
+FIN,Finland
+USFL,Florida
+FRA,France
+FRANK,Frankfurt
+BREMEN,Free Hanseatic City of Bremen
+HAMBRG,Free Hanseatic City of Hamburg
+BAVAR,Free State of Bavaria
+SAXONY,Free State of Saxony
+THURNG,Free State of Thuringia
+FREETW,Freetown
+FGNA,French Guiana
+FPOLY,French Polynesia
+FRIULI,Friuli-Venezia Giulia
+FUJIAN,Fujian
+FUKUS,Fukushima
+FUNFU,Funafuti
+GABON,Gabon
+GABROE,Gaborone
+GALICA,Galicia
+GAMB,Gambia
+GANSU,Gansu
+GAZAS,Gaza Strip
+GENEV,Geneva
+GERGTW,Georgetown
+GRGIA,Georgia
+USGA,Georgia (US)
+GFR,Germany
+GHANA,Ghana
+GIB,Gibraltar
+GLASG,Glasgow
+GOA,Goa
+ALSA,Grand-Est
+CHINAZ,Greater China
+GREECE,Greece
+GREENL,Greenland
+GREN,Grenada
+GUADLJ,Guadalajara
+GUAD,Guadeloupe
+GUAM,Guam
+GUANG,Guangdong

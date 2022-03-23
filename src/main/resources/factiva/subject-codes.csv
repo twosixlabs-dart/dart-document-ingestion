@@ -1,0 +1,916 @@
+E1104,Personal Income/Average Earnings
+GPERSI,Personal Investments
+GINVBN,Personal Investments in Bonds
+GIVSTO,Personal Investments in Stocks
+GPTECH,Personal Technology
+MPETCH,Petrochemicals Markets
+GPHOT,Photography
+C182,Physical Asset Transactions
+GFITN,Physical Fitness
+E512,Physical Trade
+GPHYS,Physics
+GPLANT,Plant Health
+GPLPOL,Plastic Pollution
+MPLAT,Platinum/Palladium Markets
+GPOIS,Poisoning
+GPAPP,Political Appointments/Terminations
+GCAT,Political/General News
+GPIR,Politics/International Relations
+GPOLO,Polo
+GPOLYG,Polygamy
+GPONZ,Ponzi/Pyramid Scheme
+GPORN,Pornography
+GPRETI,Post-retirement
+MPOTA,Potatoes Markets
+MPOULT,Poultry/Eggs Markets
+GPOV,Poverty
+MPCSMT,Precious Metals Markets
+CPRPR,Predatory Pricing
+GPRES,Preschool
+NPRESS,Press Releases
+CPRF,Price Fixing
+C314,Pricing
+GBSE,Prion Diseases (Animals)
+GPRIS,Prisons/Prisoners
+GDATAP,Privacy Issues/Information Security
+GPRIVE,Private Education
+CPFUND,Private Equity/Venture Funding
+CPRPLA,Private Placements
+C183,Privatizations/Nationalization
+GPROB,Probation/Home Detention
+EPPIN,Producer/Wholesale Price Index
+CRECAL,Product Recalls
+CPSHRT,Product Shortage
+CPSTOC,Product Stockpile
+C26,Product/Consumer Safety
+COFFS,Production/Services Relocation
+CEXPRO,Products/Services
+C01,Profiles of Companies
+CPROFI,Profit Warnings
+EESTAX,Property Taxes
+NPRPCT,Prospectuses
+GPREPI,Prosthetic Replacements/Implants
+GPROST,Prostitution
+CPROX,Proxy Fight
+GPSYL,Psychology
+GPINQ,Public Inquiries
+CPRIPU,Public-Private Partnerships
+MPULP,Pulp/Paper Markets
+MPULSE,Pulse Markets
+EPMI,Purchasing Managers Index
+GRACM,Racism
+GRDLY,Radiology
+GRALL,Rallying
+GMSSH,Rampage/Serial Killings
+NRAN,Rankings
+GRELIS,Real Estate Listings
+EREAL,Real Estate Markets
+GREEST,Real Estate/Property
+CRECAP,Recapitalization
+GRCPS,Recipes
+CRECRT,Recruitment
+GREG,Regional Politics
+C13,Regulation/Government Policy
+C131,Regulatory Bodies
+CRBREA,Regulatory Breach
+GRELAD,Relationships
+GREL,Religion
+GRELDI,Religious Discrimination
+GRENT,Renting/Letting
+C23,Research/Development
+E1119,Reserve Assets Figures
+GLUNGC,Respiratory Tract Cancer
+GCOLD,Respiratory Tract Diseases
+E1107,Retail Sales Figures
+GRETIR,Retirement Planning
+CREVSS,Reverse Stock Splits
+NRVW,Reviews
+MRICE,Rice Markets
+GRISK,Risk News
+GROBB,Robbery
+GROBO,Robotics
+GRODEO,Rodeo
+NRGN,Routine General News
+NRMF,Routine Market/Financial News
+GTREP,Routine Traffic Reports
+GWERE,Routine Weather Reports
+GROWI,Rowing
+GROYAL,Royal Families
+MRUBB,Rubber Markets
+GRUGL,Rugby League
+GRUGU,Rugby Union
+C1513,Sales Figures
+C3141,Sales Promotions
+ESTAX,Sales Tax
+GGAYM,Same-Sex Marriage/Civil Union
+GSARS,SARS/MERS Viruses
+GSCHOL,Scholarships/Educational Grants
+GSCHO,School
+GSCI,Sciences/Humanities
+CSCPLO,Secondary Offerings
+CGVFIL,Securities Filings
+GSFRA,Securities Fraud
+CSEEDR,Seed Round Financing
+REDIT,Selection of Top Stories/Trends/Analysis
+CSLMC,Senior Level Management
+CROUFI,Series/Round Financing
+ESERV,Services Sector Figures
+COOCS,Settlements/Out-of-Court Agreements
+GRAPE,Sex Crimes
+GSEXD,Sex Discrimination
+GSEXU,Sexuality
+GSTD,Sexually Transmitted Diseases
+CSHBUY,Share Buybacks/Redemptions
+C171,Share Capital
+C1522,Share Price Movement/Disruptions
+CACTSH,Shareholder Activism
+C1712,Shareholder Rights Plans
+GSHOO,Shooting
+CSCEV,Significant Corporate Events
+MSILV,Silver Markets
+GSKINC,Skin Cancer
+GINSOM,Sleep Disorders
+CSBLE,Small Business Lending
+CSBSUP,Small Business Start-up Capital
+CSMLBS,Small/Medium Businesses
+GSMART,Smart City Development
+GSMOK,Smoking
+GSNO,Snowboarding
+GSOCC,Soccer
+CBENCO,Social Enterprises
+GSOC,Social Issues
+GWEB,Social Media
+CSMAD,Social Media Marketing/Advertising
+GCOM,Society/Community
+GSOCL,Sociology
+MAGRIC,Soft Commodity Markets
+GSOFT,Softball
+GSJUNK,Space Debris
+GSPACE,Space Exploration/Travel
+GSPAM,Spamming
+GNEEDS,Special Needs Education
+MSPICE,Spices Markets
+GSPO,Sports
+GSEBI,Sports Event Bidding
+GSPORG,Sports Organizations
+MSPOTP,Spot Markets
+GSQUA,Squash
+C132,Standards/Standardization
+CSBNEW,Starting a Business
+GVSTD,State Department
+GSEC,State Security Measures/Policies
+NSTACS,Statistics
+MSTEEL,Steel Markets
+CDELIS,Stock Delistings
+C14,Stock Listings
+MSOPTN,Stock Options
+CSTKSP,Stock Splits/Bonus Issues
+CSTDR,Stock Trading Disruptions
+CSTRE,Stock Trading Resumptions
+GHURR,Storms
+GODD,Strange But True
+NSTMV,Street Moves
+GWEIG,Strength Sports
+GSTRES,Stress-related Conditions
+GSTROK,Stroke
+GSLOAN,Student Loans
+E214,Sub-national/Local Borrowing
+E213,Sub-National/Local Budget/Taxation
+MSUGAR,Sugar Markets
+REQRAC,Suggested Reading - Accounting/Consulting
+REQRAP,Suggested Reading - Advertising/Public Relations/Marketing
+REQRAD,Suggested Reading - Aerospace/Defense
+REQRAF,Suggested Reading - Agriculture/Forestry
+REQRAI,Suggested Reading - Airlines
+REQRAU,Suggested Reading - Automobiles
+REQRBC,Suggested Reading - Banking/Credit
+REQBIO,Suggested Reading - Biotechnology
+REQBCS,Suggested Reading - Business/Consumer Services
+REQRCH,Suggested Reading - Chemicals
+REQRCT,Suggested Reading - Clothing/Textiles
+REQRCM,Suggested Reading - Computers
+REQRCR,Suggested Reading - Construction/Real Estate
+REQRCP,Suggested Reading - Consumer Products
+REQREN,Suggested Reading - Energy
+REQEVR,Suggested Reading - Environment/Waste Management
+REQRFB,Suggested Reading - Food/Beverages/Tobacco
+REQRHC,Suggested Reading - Health Care
+REQRHR,Suggested Reading - Hotels/Restaurants/Casinos
+REQR,Suggested Reading - Industry News
+REQRIN,Suggested Reading - Insurance
+REQRIO,Suggested Reading - Internet/Online Services
+REQRIS,Suggested Reading - Investing/Securities
+REQLEA,Suggested Reading - Leisure/Arts
+REQMIG,Suggested Reading - Machinery/Industrial Goods
+REQRME,Suggested Reading - Media
+REQRMM,Suggested Reading - Metals/Mining
+REQPAP,Suggested Reading - Paper/Packaging
+REQRPH,Suggested Reading - Pharmaceuticals
+REQRRE,Suggested Reading - Retail
+REQRTE,Suggested Reading - Telecommunications
+REQRTS,Suggested Reading - Transportation/Shipping
+GSUIC,Suicide
+GSUPER,Superbugs
+CSCM,Supply Chain
+GSURF,Surfing
+NSUR,Surveys/Polls
+GSUST,Sustainable Development/Sustainability
+MSWAP,Swaps
+GSWIM,Swimming
+GTABT,Table Tennis
+NTAB,Tables
+GTEVA,Tax Fraud
+GTAXST,Tax Strategies
+MTEA,Tea Markets
+GTCOM,Telecommuting
+GTVRAD,Television/Radio
+CTENDO,Tender Offers
+GTENN,Tennis
+GTENP,Tenpin Bowling
+GTERR,Terrorism
+GTFIN,Terrorism Financing
+GTHEAT,Theater
+MTIN,Tin Markets
+NTOP,Top Wire News
+GTOR,Tornadoes
+GTORTU,Torture
+GTOXAL,Toxic Algae
+GTOX,Toxic Leaks
+GTRADE,Trade Barriers/Restrictions
+E1118,Trade Figures
+GTWAR,Trade Wars
+E51,Trade/External Payments
+CTMARK,Trademarks
+GTRFF,Traffic Violations
+GTRAFF,Trafficking/Smuggling
+NTRA,Transcripts
+GTRANS,Transport
+GTACC,Transport Accidents
+GVTRN,Transportation Department
+GTOUR,Travel
+GTDEAL,Travel Deals/Packages
+GTRRW,Travel Reviews
+GVTRE,Treasury Department
+GTRIA,Triathlon
+GTSUN,Tsunamis
+GTUB,Tuberculosis
+GLIST,TV/Radio Listings
+GUNI,University/College
+GVUPH,Upper House
+GPLAN,Urban/Rural Planning
+CUSAGS,Usage/Consumption Statistics
+GVAND,Vandalism/Trespass
+GMOSQ,Vector-borne/Zoonotic Diseases
+MVEOIL,Vegetable Oil Markets
+MVEGTA,Vegetables Markets
+GVVET,Veterans Affairs Department
+GVOLL,Volleyball
+GWAR,War Crimes
+CWARR,Warrants
+GWEAP,Weapons Programs
+GWEA,Weather
+NWKAH,Week Ahead Outlooks
+GWELSS,Weight Management
+GWEFR,Welfare/Benefit Fraud
+GWELF,Welfare/Social Services
+MWHEAT,Wheat Markets
+GWHIS,Whistleblowers
+EWHSL,Wholesale Sales Figures
+GBUSH,Wildfires
+GWBS,Wine/Beer/Spirits
+GWINT,Winter Sports
+GWIRT,Wiretapping/Electronic Eavesdropping
+GWITN,Witness Tampering
+CFMEX,Women Executives
+CWMOB,Women-owned Businesses
+GWHEA,Women's Health
+MWOOL,Wool Markets
+CWRKPA,Workers Pay
+GBAL,Work-Life Balance
+CWKDIS,Workplace Discrimination/Abuse
+CWKDIV,Workplace Diversity
+COCCSH,Workplace Safety/Health Issues
+GYACH,Yachting
+MZINC,Zinc Markets
+GASBST,Environmental Health
+GQUAL,Environmental Pollution
+GNATCN,Environmental Protection
+CESG,Environmental/Social/Governance
+GEPIL,Episodic/Paroxysmal Disorders
+GEQUE,Equestrian
+NEQAC,Equities Asset Class News
+M11,Equity Markets
+GSPY,Espionage
+GESTAT,Estate Planning
+GETHIC,Ethical Issues
+GETHM,Ethnic Minorities
+E52,Euro Zone/Currency
+CEUROB,Eurobonds
+GEUTH,Euthanasia
+GVEXE,Executive Branch
+CEXECP,Executive Pay
+GEXT,Extortion/Blackmail
+GXSPO,Extreme Sports
+GBLIND,Eye Conditions
+CPRDCL,Facility Closures
+CPRDOP,Facility Openings
+NFACT,Factiva Filters
+E1114,Factory/Manufactured Goods Orders
+EFAIRT,Fair Trade
+GFAKE,Fake News Phenomenon
+GFAM,Family Finance
+GBIRTC,Family Planning
+GFAMIN,Famine
+GFAS,Fashion
+GDESG,Fashion Design
+GFASW,Fashion Shows/Events
+EBEIGE,Federal Reserve Survey Data
+MFERTZ,Fertilizers Markets
+GFESTI,Festivals
+GHOCK,Field Hockey
+GFNPL,Financial Advisors
+GFINC,Financial Crime
+C15,Financial Performance
+C173,Financing Agreements
+GFIRE,Fire/Rescue Services
+NFIAC,Fixed Income Asset Class News
+GFXIIN,Fixed Income Investing
+GFLOOD,Floods/Tidal Waves
+GFALL,Food Allergies
+GFDSEC,Food Security
+GFOD,Food/Drink
+GFRCL,Forced Labor
+CFORE,Foreclosures
+EFDI,Foreign Direct Investment
+NFXMT,Foreign Exchange Market Talk
+M132,Foreign Exchange Markets
+NFXACB,Forex Asset Class Basic News
+NFXACP,Forex Asset Class Premium News
+GFOST,Fostering/Adoption
+C335,Franchises
+GFRAUD,Fraud
+MFRUIT,Fruit Markets
+GFUEL,Fuel Efficiency
+M16,Fund Markets
+GCAGM,Games
+GGANGS,Gangs
+GLIVC,Gastrointestinal Cancer
+GWORI,Gender Equality
+GCELL,Gene/Cell Therapy
+GJOB,General Labor Issues
+GCOHO,Generational Cohorts
+CGENPR,Generic Brands
+GHEMO,Genetic Disorders
+GGEO,Geography/Geology
+GEARTH,Geological Disasters
+GGHEA,Geriatric Health
+GGLOBE,Global/World Issues
+GGLBLZ,Globalization
+M1421,Gold Markets
+GGOLF,Golf
+C341,Government Aid/Grants
+GVBOD,Government Bodies
+E212,Government Borrowing
+E211,Government Budget/Taxation
+C332,Government Contracts/Orders
+MGVDBT,Government Debt/Bond Markets
+E21,Government Finance
+MGRAIN,Grain Markets
+MGROIL,Grains/Edible Oils Markets
+GGREY,Greyhound Racing
+CMISCO,Gross Misconduct/Malpractice
+GGUNC,Gun Control
+GGYMN,Gymnastics
+GSWINE,H1N1 Flu/Influenza
+GHAND,Handball
+GHARA,Harassment
+GHATE,Hate Crime
+NLIST,Headline Listings
+NHOC,Headline-Only Content
+CHQR,Headquarters Opening/Relocation
+GHEA,Health
+GMFRA,Health Care Fraud
+GHPLAN,Health Planning
+GVHHS,Health/Human Services Department
+NHRD,Heard on the Street
+MHTGOL,Heating Oil Markets
+GHEPAT,Hepatitis
+GHEROI,Heroin/Illegal Opioid Use/Abuse
+GEDPLA,Higher Education Costs
+CJUNK,High-yield Corporate Bonds
+GHIJK,Hijacking/Piracy
+GHIST,History
+MHOGS,Hogs/Pigs Markets
+GGARD,Home Gardening/Landscaping
+GHIMP,Home Improvements
+E1121,Home Sales/Housing Affordability Figures
+GHOMEL,Homelessness
+GHONL,Honours List/Decorations
+GHORSC,Horoscopes
+GHORS,Horse Racing/Harness Racing
+GHOUSE,Housing Issues
+EMHPR,Housing Prices Figures
+EHSAL,Housing Sales Figures
+E1120,Housing Starts
+GVHUD,Housing/Urban Development Department
+GIMM,Human Migration
+GHUM,Human Rights/Civil Liberties
+GHUTRK,Human Trafficking
+GHUNT,Hunting
+GHRRC,Hurricanes/Typhoons
+GHIGH,Hypertension/High Blood Pressure
+GICEH,Ice Hockey
+GIDENT,Identity Theft
+GIDEOL,Ideology
+GILLGB,Illegal Gambling
+GILLIM,Illegal Immigration
+GIWILD,Illegal Wildlife Trade
+NIMAGE,Images
+GIMMU,Immunizations
+EITAX,Income Tax
+GINDA,Independent Advisory Bodies
+GINDIE,Independent Films
+E2112,Indirect Taxation
+GIRA,Individual Retirement Accounts
+E1111,Industrial Production Figures
+CINPRP,Industrial Property Rights
+CINESP,Industrial/Corporate Espionage
+CIPROF,Industry Profile
+GIHEA,Infant/Child/Teenage Health
+GSPOX,Infectious Diseases
+GCHLRA,Infectious Foodborne/Waterborne Diseases
+E1103,Inflation Figures/Price Indices
+C25,Information Technology
+C1711,Initial Public Offerings
+CINSDL,Insider Dealing
+CDIRDL,Insider Stock Sales/Purchases
+GIFRA,Insurance Fraud
+CGYMTR,Intellectual Property Rights
+EFFUND,Interbank Rate
+E1202,Interest Rates
+GVINR,Interior Department
+CCTRL,Internal Control
+CIEXP,International Expansion (Facilities)
+GDIP,International Relations
+GESANC,International Sanctions
+NITV,Interviews
+NIEX,Interviews with Corporate Executives
+GIIDEA,Investment Ideas/Investor Education
+MIRONO,Iron Ore Markets
+GISLAM,Islam
+GPELO,Jai Alai (Pelota)
+MJTFUL,Jet Fuel Markets
+GJSEAR,Job Search
+EJOBCL,Jobless Claims
+C184,Joint Ventures/Consortia
+GVSUP,Judicial Branch
+GJUDO,Judo
+GJURI,Juries
+GVJUS,Justice Department
+GKARA,Karate
+GKDNAP,Kidnapping/Abduction
+CKNOWM,Knowledge/Information Management
+GVLBR,Labor Department
+CLABDI,Labor Disputes
+C42,Labor/Personnel
+GLACR,Lacrosse
+GLAND,Land Use
+GHOME,Law Enforcement
+CREDUN,Lay-offs/Redundancies
+MLEAD,Lead Markets
+GVCNG,Legislative Branch
+NLET,Letters
+CLBO,Leveraged Buyouts
+CLEVER,Leveraged Loans
+GLGBT,LGBT Rights
+C334,Licensing Agreements
+MLPG,Liquid Petroleum Gas Markets
+CLIQUI,Liquidation
+GLIT,Literacy/Illiteracy
+MLVSTK,Livestock/Meat Markets
+GLIFE,Living/Lifestyle
+GELDCR,Long-term Care Costs
+GVLWH,Lower House
+MLUMB,Lumber Markets
+GLUX,Luxury Homes/Estates
+GLUXTR,Luxury Travel
+GMALA,Malaria
+GCVIR,Malware
+C41,Management
+CMBO,Management Buyouts
+C411,Management Moves
+GMARA,Marathon
+GMARIJ,Marijuana Use/Abuse
+CMARKR,Market Research
+C313,Market Share
+C31,Marketing
+GWEDD,Marriage/Divorce
+MGRFDS,Meals/Feeds Markets
+GMED,Medical Conditions
+GCRESE,Medical Research
+GTREA,Medical Treatments/Procedures
+GMAM,Medication Abuse/Misuse
+GMENIG,Meningitis
+GMHEA,Men's Health
+GMENT,Mental Disorders
+GPSYCH,Mental Health Therapies
+CMERG,Mergers
+M142,Metals Markets
+GMETHA,Methamphetamine Use/Abuse
+CMEZZ,Mezzanine Financing
+CMMM,Middle/Lower Management
+GVIO,Military Action
+GCHESS,Mind Sports
+GMINI,Minimum/Living Wage
+MMINMT,Minor Metals Markets
+CMINOR,Minority-owned Businesses
+GMODE,Modern Pentathlon
+GMDART,Modernist/Postmodernist Art
+E12,Monetary Policy
+GDTCSH,Money Laundering
+M131,Money Markets
+E1102,Money Supply Figures
+NMTALK,Money Talks
+M13,Money/Currency Markets
+GDEPR,Mood Disorders
+E1122,Mortgage Application/Refinancing Figures
+GMOFRA,Mortgage Fraud
+GMORT,Mortgage Planning/Trends
+GREFI,Mortgage Refinancing
+MMOTFL,Motor Fuel Markets
+GMORA,Motor Racing
+GMOTO,Motor Sports
+GMOCY,Motorcycling
+GPARK,Movement Disorders
+GMOVIE,Movies
+GMLTPS,Multiple Sclerosis
+MMUNI,Municipal Debt/Bond Markets
+GMURD,Murder/Manslaughter
+GMUSIC,Music
+GMUSLS,Musicals
+GNANO,Nanotechnology
+MNAPTH,Naphtha Markets
+GNASC,Nascar
+MNTDBT,National Government Debt/Bond Markets
+GVOTE1,National/Presidential Elections
+GCNS,National/Public Security
+GNTDIS,Natural Disasters/Catastrophes
+GENV,Natural Environment
+MNATGS,Natural Gas Markets
+CNATRD,Natural Reserves/Resources Discovery
+GNRSCA,Natural Resource Scarcity
+GNAVY,Navy
+GNET,Netball
+CNETN,Network Neutrality
+GADHD,Neurodevelopmental Disorders
+CNCC,New Companies Creation
+CAPPRO,New Product Approvals
+CTRIAL,New Product/Service Testing
+C22,New Products/Services
+NNAM,News Agency Materials
+NSUM,News Digests
+MNICKL,Nickel Markets
+GNBFIR,Nonbuilding Structures Fires/Collapses
+MNONFR,Non-ferrous Metals Markets
+C333,Non-Government Contracts/Orders
+GNUCA,Nuclear Accidents
+GNUCLW,Nuclear Weapons Programs
+GNUTR,Nutrition
+MNUTS,Nuts Markets
+GOBES,Obesity
+NOBT,Obituaries
+GOHEA,Occupational Health
+GOCEA,Oceanography
+MOILSD,Oilseed Markets
+GOLY,Olympics
+GOPERA,Opera
+MORANJ,Orange Juice Markets
+GORGA,Organ/Tissue Transplants
+GORIE,Orienteering
+GOUT,Outbreaks/Epidemics
+C21,Output/Production
+COUTSC,Outsourcing
+C18,Ownership Changes
+NPAG,Page-One Stories
+GPALEO,Paleontology
+GPARA,Paralympics/Special Olympics/Deaflympics
+GPAREN,Parenting/Parenthood
+CPARTN,Partnerships/Collaborations
+C133,Patents
+EPAYTX,Payroll Taxes
+NPEO,People Profiles
+NPAN,Personal Announcements
+GPBNKR,Personal Bankruptcy
+GPCRED,Personal Credit Score
+GPERSF,Personal Finance
+GABOR,Abortion
+NABST,Abstracts
+GMMDIS,Accidents/Man-made Disasters
+CACQU,Acquisitions/Mergers
+C181,Acquisitions/Mergers/Shareholdings
+GADR,Adverse Drug Reactions
+C32,Advertising
+CADNET,Advertising Networks
+CADSP,Advertising Spending
+NADVTR,Advertorials/Sponsored Content
+NADC,Advice
+NADV,Advisories
+GAERO,Aero/Air Sports
+GAFFM,Affirmative Action
+GAFHO,Affordable/Social Housing
+GAGED,Age Discrimination
+M141,Agricultural Commodity Markets
+E1110,Agricultural Production Figures
+GVAGD,Agriculture Department
+GHIV,AIDS/HIV
+GAIRF,Air Force
+GAIRP,Air Pollution
+GALCM,Alcoholism
+NAMT,All Market Talk
+GALL,Allergies
+GALPS,Alpine Skiing
+GALTM,Alternative Medicine/Treatments
+MALUM,Aluminum Markets
+GALZ,Alzheimer's Disease
+GAMER,American Football
+NANL,Analyses
+C1521,Analysts' Comments/Recommendations
+GANGL,Angling
+GAHEA,Animal Health
+GAVFLU,Animal Influenza
+GARIG,Animal Rights
+GAINF,Animal/Insect Infestations
+GANIMF,Animated Films
+C1511,Annual/Shareholders Meetings
+GANTHX,Anthrax
+GANTPY,Anthropology
+C34,Anti-Competition Issues
+GPHOB,Anxiety Disorders
+GAQUA,Aquatics/Water Sports
+GARLGY,Archaeology
+GARCH,Archery
+GARCHI,Architecture
+GDEF,Armed Forces
+GCOUP,Armed Rebellion
+GARMY,Army
+GARSON,Arson
+GART,Art
+GARTAU,Art Collecting/Sales
+GARTT,Arthritis/Rheumatic Conditions
+GAIML,Artificial Intelligence/Machine Learning
+NARTPR,Artist Profiles
+GENT,Arts/Entertainment
+GASSA,Assault
+GASSET,Asset Allocation
+CMABS,Asset Backed Securities
+GASTMA,Asthma
+GASTRO,Astronomy
+GATHL,Athletics
+NAUDVL,Audio-visual Links
+GOZFTL,Australian Rules Football
+GAUTI,Autism Spectrum Disorders
+CAUTM,Automation
+GAIRA,Aviation Accidents
+GAWARD,Awards
+GBADM,Badminton
+EBLPY,Balance of Payments/Current Account
+EBKLND,Bank Loan Data
+C16,Bankruptcy
+CDIP,Bankruptcy Financing
+CBRO,Bankruptcy Reorganization
+CBRRO,Bankruptcy-Related Rights Offering
+GBASE,Baseball
+GBASK,Basketball
+MBEAN,Beans Markets
+MCATTL,Beef/Dairy Cattle Markets
+GADDIC,Behavioral Addictions/Obsessions
+CBESTP,Best Practice
+NBIGP,Big Picture
+GBILL,Billiards/Snooker/Pool
+GBIOL,Biology
+GBIOT,Biotechnology
+GBLAC,Blackouts
+GBLIZZ,Blizzards
+GBLOG,Blogging
+NBLOG,Blogs
+GLEUK,Blood Cancer
+GBLOOD,Blood Donations/Transfusions
+CBOARD,Board of Directors
+GBOLLY,Bollywood/Indian Films
+GBOOK,Books
+GBOWL,Bowls/Petanque
+GBOXI,Boxing
+CBRAND,Branding
+GBREAC,Breast Cancer
+GBRIB,Bribery
+E1108,Budget Figures
+GEXPLO,Building Fires/Explosions/Collapses
+EBPMT,Building Permit Figures
+MBNKER,Bunker Fuel Markets
+GTHEFT,Burglary/Theft
+E1113,Business Inventory Figures
+CDINN,Business/Disruptive Innovation
+E1117,Business/Economic Sentiment Data
+CB2E,Business-to-Employee (B2E)
+CBUYL,Buy Local Campaigns/Cash Mobs
+GSELL,Buying/Selling a Home
+NCAL,Calendar of Events
+GCANCR,Cancer
+E1112,Capacity Utilization Figures
+C24,Capacity/Facilities
+CCAPEX,Capital Expenditure
+ECGTAX,Capital Gains Tax
+E511,Capital Movements/Invisible Trade
+NCAP,Captions
+E1123,Car Registration/Sales Figures
+GCARD,Cardiovascular Conditions
+GCRPLN,Career Planning/Management
+GCAR,Cars
+GCELE,Celebrities
+GCENS,Censorship
+E1201,Central Bank Intervention
+GCHA,Charities/Philanthropy
+GCFRA,Check Fraud
+GCHEM,Chemistry
+GCHEMO,Chemotherapy/Radiotherapy/Immunotherapy
+GCHLAB,Child Abuse
+GCHLBR,Child Labor
+NCHR,Chronology
+GCIVDS,Civil Unrest
+CCLASS,Class Action Lawsuits
+GCLIMT,Climate Change
+GCLIMB,Climbing
+MCOAL,Coal Markets
+GCOCA,Cocaine Use/Abuse
+MCOCOA,Cocoa Markets
+MCOFF,Coffee Markets
+GCOLIV,Collectible Investments
+GCLFO,College Sports
+NCOLU,Columns
+GCOMBT,Combat Sports
+NEDC,Commentaries/Opinions
+GVCOM,Commerce Department
+NCMAC,Commodities Asset Class News
+M14,Commodity Markets
+MCAT,Commodity/Financial Market News
+GCIV,Community/Civic Engagement
+CCPINT,Competitive Intelligence
+E1125,Composite Economic Indicator Indices
+GCGAMB,Compulsive Gambling
+GCSCI,Computer Science
+GCONCE,Concerts
+C315,Conferences/Exhibitions
+ECFIG,Construction Figures/Output
+GCON,Consumer Affairs
+GDEALS,Consumer Deals
+ECPIN,Consumer Price Index
+E1105,Consumer Sentiment Figures
+E1106,Consumer Spending Figures
+GSPEND,Consumer Spending/Budgeting
+GCOART,Contemporary Art
+NCAT,Content Types
+NCONT,Contest/Lottery Announcements
+GCNTSU,Continuing Education
+CCNTTD,Contract Tenders
+C33,Contracts/Orders
+MCOPP,Copper Markets
+C134,Copyright
+MCORN,Corn Markets
+CACTIO,Corporate Actions
+CINTAU,Corporate Audit
+CCAWRD,Corporate Awards
+E1124,Corporate Bankruptcy Figures
+C02,Corporate Changes
+C174,Corporate Credit Ratings
+C12,Corporate Crime/Legal Action
+C172,Corporate Debt Instruments
+MCPDBT,Corporate Debt/Bond Markets
+NCDIG,Corporate Digests
+CDUED,Corporate Due Diligence
+CCFD,Corporate Financial Difficulty
+C17,Corporate Funding
+CCPGVN,Corporate Governance
+CHEDGE,Corporate Hedging
+CCNAME,Corporate Name Changes
+CEFFIC,Corporate Organizational Restructuring
+CCSR,Corporate Social Responsibility
+CCSPON,Corporate Sponsorship
+C11,Corporate Strategy/Planning
+CCPTAX,Corporate Taxation
+CCAT,Corporate/Industrial News
+C312,Corporate/Industry Exports
+C311,Corporate/Industry Imports
+GCORRP,Corruption
+MCOTT,Cotton/Silk Markets
+GCOUNT,Counterfeit/Forgery
+NCOPRO,Country Profiles
+GCCFRA,Credit Card Fraud
+GCRIC,Cricket
+GCRIM,Crime/Legal Action
+GORGNZ,Criminal Enterprises
+GCCSKI,Cross-country Skiing
+CCROW,Crowdfunding
+MCROIL,Crude Oil Markets
+MCRNTG,Crude Oil/Natural Gas Product Markets
+GCRUI,Cruises
+MCRYP,Cryptocurrency Markets
+GCLTRE,Cultural Heritage
+MCUOP,Currency Options
+CCEXPI,Customer Experience
+CCRM,Customer Relationship Management
+CCRLY,Customer Retention/Loyalty
+GHACK,Cybercrime/Hacking
+GCYCL,Cycling
+MDAIR,Dairy Markets
+GDANCE,Dance Sport
+GDABAL,Dance/Ballet
+GDART,Darts
+CDATAM,Data Mining
+GSECBR,Data Security Breaches
+CDATAW,Data Warehousing
+GDEATH,Death Penalty/Capital Punishment
+M12,Debt/Bond Markets
+GLIBEL,Defamation
+C331,Defense Contracts
+GVDEF,Defense Department
+GFORST,Deforestation
+GDEME,Dementia
+CSPIN,Demergers
+GGROUP,Demographic Health
+GDEMOG,Demographics
+GTOOTH,Dental Conditions
+GDENT,Dentistry
+GVDHS,Department of Homeland/National Security
+CDEREG,Deregulation
+M15,Derivative Securities
+GDEV,Development/Humanitarian Aid
+GDIAS,Diabetes
+GDIAL,Dialysis
+GDGDV,Digital Divide
+GDPIR,Digital Piracy
+CDBUS,Digitalization
+E2111,Direct Taxation
+GDISAB,Disability Discrimination
+GDIS,Disasters/Accidents
+GDCRI,Discrimination
+CFDST,Distressed Debt
+CDAGR,Distribution Agreements
+CDIV,Divestments
+C1512,Dividends
+NPFIDN,DJ Dominant News - Fixed Income
+NPDA,DJ Exclusive Analysis - All
+NPCDA,DJ Exclusive Analysis - Commodities
+NPENDA,DJ Exclusive Analysis - Energy
+NPQDA,DJ Exclusive Analysis - Equities
+NPFIDA,DJ Exclusive Analysis - Fixed Income
+NPFXDA,DJ Exclusive Analysis - FX
+NPDN,DJ Exclusive News - All
+NPCDN,DJ Exclusive News - Commodities
+NPENDN,DJ Exclusive News - Energy
+NPQAN,DJ Exclusive News - Equities
+NPFXDN,DJ Exclusive News - FX
+GDOGA,Dog Attacks
+GPOL,Domestic Politics
+GDOMV,Domestic Violence
+CDOM,Domestic/Foreign Markets
+GDOP,Doping in Sports
+NDJMT,Dow Jones Market Talk
+GDROUG,Drought
+GDRUG,Drug Trafficking/Dealing
+GABUS,Drug/Substance Use/Abuse
+GECOL,E. Coli Infections
+GHEAR,Ear/Hearing Conditions
+C151,Earnings
+C152,Earnings Projections
+C1514,Earnings Surprises
+GEAT,Eating Disorders
+E1101,Economic Growth/Recession
+ECAT,Economic News
+E11,Economic Performance/Indicators
+NPRED,Economic Predictions/Forecasts
+EECZON,Economic Zones
+MEDOIL,Edible Oils Markets
+NEDI,Editorials
+GEDU,Education
+GVEDN,Education Department
+GEGOV,e-government
+GELEAR,E-learning
+GVOTE,Elections
+MELEC,Electricity Markets
+GELSPO,Electronic Sports
+GEMBLZ,Embezzlement
+CEMDO,Eminent Domain
+MEMISS,Emission Markets
+CEMPBN,Employee Benefits
+CEMRET,Employee Retention
+CEMPTD,Employee Training/Development
+E1115,Employment Cost/Productivity Figures
+E1116,Employment/Unemployment Figures
+NENAC,Energy Asset Class News
+GVERG,Energy Department
+GENGY,Energy Efficient Home Improvements
+M143,Energy Markets
+GENGSC,Energy Security
+CENTRP,Entrepreneurs/Startups
+GVENV,Environment Department
+GENVCR,Environmental Crime
