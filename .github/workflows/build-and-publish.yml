@@ -5,6 +5,8 @@ on: push
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SBT_OPTS: "-Xms2G -Xmx8G -XX:+UseG1GC"
     steps:
       - uses: actions/checkout@v2.3.4
       - name: Set up JDK 8
