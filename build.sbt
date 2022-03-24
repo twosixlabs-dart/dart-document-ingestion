@@ -66,3 +66,8 @@ assemblyMergeStrategy in assembly := {
 parallelExecution in Test := false
 
 testOptions in Test := Seq( Argument( "-oI" ) )
+
+
+javacOptions in ThisBuild ++= Seq( "-source", "8", "-target", "8" )
+scalacOptions in ThisBuild += "-target:jvm-1.8"
+
