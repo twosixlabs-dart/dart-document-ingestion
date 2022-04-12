@@ -9,7 +9,7 @@ After the initial ingestion, the pipeline sends the document through the annotat
 ## Building
 This project is built using SBT. For more information on installation and configuration of SBT please [see their documentation](https://www.scala-sbt.org/1.x/docs/)
 
-The DART application itself is composed of other DART libraries that are included as Java (JAR) dependencies. As a prerequisite these libraries (under the `com.twosixlabs.dart`) namespace must be available either in the build machine's local cache or available through a networked artifact repository such as [Sonatype Nexus](https://www.sonatype.com/products/repository-oss-download) or (JFrog Artifactory)[https://jfrog.com/artifactory/].
+The DART application itself is composed of other DART libraries that are included as Java (JAR) dependencies. To find the latest version and other information about these libraries please check either the projects from the [DART GitHub Organization](https://github.com/twosixlabs-dart) or the listings in [Maven Central](https://mvnrepository.com/artifact/com.twosixlabs.dart)
 
 To build and test the code:
 ```bash
