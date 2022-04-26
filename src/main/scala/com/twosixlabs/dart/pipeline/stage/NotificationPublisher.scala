@@ -40,6 +40,8 @@ class NotificationPublisher( context : ActorContext[ DocumentProcessing ],
                              datastore : DartDatastore,
                              ontologyRegistry : OntologyRegistryService ) extends AbstractBehavior[ DocumentProcessing ]( context ) {
 
+    private val GLOBAL_TENANT : String = "global"
+
     private implicit val executionContext : ExecutionContext = scala.concurrent.ExecutionContext.global
 
     private val LOG : Logger = LoggerFactory.getLogger( getClass )
@@ -87,11 +89,13 @@ class NotificationPublisher( context : ActorContext[ DocumentProcessing ],
     private def getOntologyMappings( docId : String ) : Set[ TenantOntologyMapping ] = {
         datastore.tenantMembershipsFor( docId ).synchronously( 5000 ) match {
             case Success( tenants ) => {
-                val ontologies = tenants.flatMap( t => {
+                val allTenants = tenants + GLOBAL_TENANT
+                val ontologies = allTenants.flatMap( t => {
                     ontologyRegistry.latest( t ) match {
                         case Success( value ) => value
                         case Failure( e ) => {
                             LOG.error( s"there was an error sending notification for ${docId}, notifications may not be working..." )
+                            if ( LOG.isDebugEnabled ) e.printStackTrace()
                             None
                         }
                     }
