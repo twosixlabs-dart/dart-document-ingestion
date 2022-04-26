@@ -29,7 +29,7 @@ object Dependencies {
     val embeddedEsVersion = "7.6.2"
 
     val kafkaVersion = "2.2.1"
-    val embeddedKafkaVersion = "2.8.1"
+    val embeddedKafkaVersion = "3.1.0"
 
     val rdf4jVersion = "2.5.1"
 
